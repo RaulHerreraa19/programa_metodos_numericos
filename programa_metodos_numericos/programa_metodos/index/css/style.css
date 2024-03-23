@@ -1,0 +1,29 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 80%;
+}
+
+header {
+    margin: 2em 0em;
+}
+
+nav {
+    margin: 5em 2em;
+}
+
+main {
+    margin: 3em 10em;
+}
+
+#card {
+    max-width: 30px;
+}
+
+#card-body {
+    margin: 1em 1em;
+}
+
+.imgCard {
+    margin: 1em 0em;
+    max-width: 90%;
+}
